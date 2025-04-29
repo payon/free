@@ -37,7 +37,7 @@
     "versionFirst": "6.0.4",
     "siteFonts": [],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 7,
     "versionPublish": "6.0.4"
   },
